@@ -1,6 +1,6 @@
 ### Hi there, I'm webszy!](https://sunzhenyu.cn) 👋
 
-Hi, I'm Web.szy, a passionate self-taught FullStack developer from China.
+Hi, I'm Web.szy, a calm self-motivated FullStack developer from China.
 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on [docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) and  [docs-cn](https://github.com/windicss/docs-cn) 
